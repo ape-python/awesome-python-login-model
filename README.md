@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-    <img src="https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero/blob/master/images/%E6%80%81%E5%BA%A6CoderClub.jpeg?raw=true" 
+    <img src="https://imgkr.cn-bj.ufileos.com/0b2cc088-45b4-4474-94ea-e98245f40ced.jpg" 
         alt="Master">
 </p>
 
@@ -109,7 +109,7 @@
 > [Please touch here to view test images](./README-Test.md)
 
 ## Informations
-- 为感谢你们的支持，准备写一套免费爬虫的教程，保证你学会以后可以爬取市面上大部分的网站，[教程地址](https://github.com/CriseLYJ/-Python-crawler-starts-from-zero)
+- 为感谢你们的支持，准备写一套免费爬虫的教程，保证你学会以后可以爬取市面上大部分的网站，[教程地址](https://github.com/ape-python/Python-crawler-tutorial-starts-from-zero)
 
 ## tips of pull request 
 
@@ -130,10 +130,6 @@
 > [@deepforce](https://github.com/deepforce) | [@cclauss](https://github.com/cclauss) | [ksoeasyxiaosi](https://github.com/ksoeasyxiaosi) | [JasonJunJun](https://github.com/JasonJunJun)
 - 欢迎更多的人来提pr~
 - Thanks for all 🎉
-
-## 联系我
-- 欢迎反馈！
-- My Email : criselyj@163.com
 
 ## 注意：
 - 本项目仅用于学习和交流
